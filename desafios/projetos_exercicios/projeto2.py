@@ -13,7 +13,6 @@ tentativas_atual = 0
 
 
 
-print(numero_aleatorio)
 print('\n----- ADIVINHE O NÚMERO -----')
 while tentativas > 0:
     numero_usuario = int(input('\nDe 1 a 100: '))
