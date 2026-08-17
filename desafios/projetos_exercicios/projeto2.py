@@ -62,3 +62,4 @@ if numero_usuario != numero_aleatorio:
     print('Fim de jogo!')
     print(f'Resposta: {numero_aleatorio}')
 
+teste = 1
